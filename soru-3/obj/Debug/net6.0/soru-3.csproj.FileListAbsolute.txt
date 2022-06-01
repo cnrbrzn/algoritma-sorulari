@@ -1,0 +1,15 @@
+C:\Users\cborazan\source\repos\Pratikler\algoritma-sorulari\soru-3\obj\Debug\net6.0\soru-3.csproj.AssemblyReference.cache
+C:\Users\cborazan\source\repos\Pratikler\algoritma-sorulari\soru-3\obj\Debug\net6.0\soru-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cborazan\source\repos\Pratikler\algoritma-sorulari\soru-3\obj\Debug\net6.0\soru-3.AssemblyInfoInputs.cache
+C:\Users\cborazan\source\repos\Pratikler\algoritma-sorulari\soru-3\obj\Debug\net6.0\soru-3.AssemblyInfo.cs
+C:\Users\cborazan\source\repos\Pratikler\algoritma-sorulari\soru-3\obj\Debug\net6.0\soru-3.csproj.CoreCompileInputs.cache
+C:\Users\cborazan\source\repos\Pratikler\algoritma-sorulari\soru-3\bin\Debug\net6.0\soru-3.exe
+C:\Users\cborazan\source\repos\Pratikler\algoritma-sorulari\soru-3\bin\Debug\net6.0\soru-3.deps.json
+C:\Users\cborazan\source\repos\Pratikler\algoritma-sorulari\soru-3\bin\Debug\net6.0\soru-3.runtimeconfig.json
+C:\Users\cborazan\source\repos\Pratikler\algoritma-sorulari\soru-3\bin\Debug\net6.0\soru-3.dll
+C:\Users\cborazan\source\repos\Pratikler\algoritma-sorulari\soru-3\bin\Debug\net6.0\soru-3.pdb
+C:\Users\cborazan\source\repos\Pratikler\algoritma-sorulari\soru-3\obj\Debug\net6.0\soru-3.dll
+C:\Users\cborazan\source\repos\Pratikler\algoritma-sorulari\soru-3\obj\Debug\net6.0\refint\soru-3.dll
+C:\Users\cborazan\source\repos\Pratikler\algoritma-sorulari\soru-3\obj\Debug\net6.0\soru-3.pdb
+C:\Users\cborazan\source\repos\Pratikler\algoritma-sorulari\soru-3\obj\Debug\net6.0\soru-3.genruntimeconfig.cache
+C:\Users\cborazan\source\repos\Pratikler\algoritma-sorulari\soru-3\obj\Debug\net6.0\ref\soru-3.dll
